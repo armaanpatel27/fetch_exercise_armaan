@@ -1,0 +1,1 @@
+Run the application inside Android Studio. The final answer is outputted in the Logcat with the "Message" tag, and it is outputted as a list in an Android Emulator. All of the added code is in app/src/main/java/com/example/fetch_exercise.
